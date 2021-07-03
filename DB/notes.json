@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "60bf848109c07528804c9288"
+  },
+  "title": "chú ý 2",
+  "content": "Các bạn nên chú ý khi ra sân bay có rất nhiều người chém giá\nĐặc biệt trong mấy ngày gần đây xảy ra rất nhiều quanh khu vực Sân Bay Nội Bài. 2"
+},{
+  "_id": {
+    "$oid": "60c045d3c5f1fc3b6c571c95"
+  },
+  "title": "hi",
+  "content": "hi",
+  "__v": 0
+}]
